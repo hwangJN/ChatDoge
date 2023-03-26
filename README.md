@@ -1,2 +1,2 @@
 # ChatDoge
-chatGPT API를 활용한 간단한 웹서비스
+chatGPT API를 활용한 채팅 웹 서비스
